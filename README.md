@@ -1,1 +1,1 @@
-# PGATS-Pos-Graduacao-Em-Automacao-De-Testes-De-Software
+## PGATS- Pos-Graduação Em Automação de Testes de Software
