@@ -1,0 +1,23 @@
+
+## Módulo 01 - Fundamentos em Automação em Teste de Software
+
+### Objetivo disciplina: Esta disciplina proporciona uma introdução abrangente e prática aos fundamentos da automação de testes de software, desenhada para profissionais e estudantes que desejam adquirir uma base sólida nesse campo dinâmico e crucial da engenharia de software.
+
+PGATS-2024-01: Fundamentos em Automação se Testes (Aula 1) - Sex das 19:00 às 22:00 ✅
+PGATS-2024-01: Fundamentos em Automação se Testes (Aula 2) - Sab das 09:00 as 12:00 ✅
+PGATS-2024-01: Fundamentos em Automação se Testes (Aula 3) - Sab das 13:00 as 18:00 ✅
+PGATS-2024-01: Fundamentos em Automação se Testes (Aula 4) - Sex das 19:00 às 22:00 ✅
+PGATS-2024-01: Fundamentos em Automação se Testes (Aula 5) - Sab das 09:00 as 12:00 ✅
+PGATS-2024-01: Fundamentos em Automação se Testes (Aula 6) - Sab das 13:00 as 18:00 ✅
+
+
+## Módulo 02 - Algorítimos e Lógica da Programação
+
+### Objetivo disciplina: Nessa disciplina fornece aos alunos uma compreensão sólida dos conceitos fundamentais e das técnicas necessárias para a resolução de problemas utilizando algoritmos e lógica de programação.
+
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 1) - Sex das 19:00 às 22:00
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 2) - Sab das 09:00 as 12:00
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 3) - Sab das 13:00 as 18:00
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 4) - Sex das 19:00 às 22:00
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 5) - Sab das 09:00 as 12:00
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 6) - Sab das 13:00 as 18:00
