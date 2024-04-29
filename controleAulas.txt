@@ -1,6 +1,5 @@
 
 ## Módulo 01 - Fundamentos em Automação em Teste de Software
-
 ### Objetivo disciplina: Esta disciplina proporciona uma introdução abrangente e prática aos fundamentos da automação de testes de software, desenhada para profissionais e estudantes que desejam adquirir uma base sólida nesse campo dinâmico e crucial da engenharia de software.
 
 PGATS-2024-01: Fundamentos em Automação se Testes (Aula 1) - Sex das 19:00 às 22:00 ✅
@@ -12,7 +11,6 @@ PGATS-2024-01: Fundamentos em Automação se Testes (Aula 6) - Sab das 13:00 as 
 
 
 ## Módulo 02 - Algorítimos e Lógica da Programação
-
 ### Objetivo disciplina: Nessa disciplina fornece aos alunos uma compreensão sólida dos conceitos fundamentais e das técnicas necessárias para a resolução de problemas utilizando algoritmos e lógica de programação.
 
 PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 1) - Sex das 19:00 às 22:00
@@ -21,3 +19,46 @@ PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 3) - Sab das 13:00 as
 PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 4) - Sex das 19:00 às 22:00
 PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 5) - Sab das 09:00 as 12:00
 PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 6) - Sab das 13:00 as 18:00
+
+
+## Módulo 03 - Programação para Automação de Testes
+### Objetivo disciplina: Essa disciplina é para capacitar os alunos a compreender e aplicar conceitos fundamentais de programação, com foco específico no ambiente de automação de testes de software. Espera-se que os alunos adquiram conhecimentos sólidos sobre os princípios de programação, sintaxe e estruturas de dados em TypeScript, com uma compreensão clara de como esses elementos se relacionam com a automação de testes.
+
+PGATS-2024-01: Programação para Automação de Testes (Aula 1) - Sex das 19:00 às 22:00	
+PGATS-2024-01: Programação para Automação de Testes (Aula 2) - Sab das 09:00 as 12:00	
+PGATS-2024-01: Programação para Automação de Testes (Aula 3) - Sab das 13:00 as 18:00	
+PGATS-2024-01: Programação para Automação de Testes (Aula 4) - Sex das 19:00 às 22:00	
+PGATS-2024-01: Programação para Automação de Testes (Aula 5) - Sab das 09:00 as 12:00	
+PGATS-2024-01: Programação para Automação de Testes (Aula 6) - Sab das 13:00 as 18:00
+
+
+## Módulo 04 - Automação de Testes em Web 
+### Objetivo disciplina: Essa disciplina é para capacitar os alunos a compreenderem e aplicarem os conceitos fundamentais e avançados relacionados à automação de testes em aplicações web, fornecendo assim uma base sólida de conhecimentos teóricos e práticos para que os alunos possam desenvolver e implementar testes automatizados de alta qualidade, eficiência e confiabilidade em projetos web.
+
+
+## Módulo 05 - Automação de Testes em API Rest
+### Objetivo disciplina: Essa disciplina é para capacitar os alunos a se tornarem proficientes na automação de testes de APIs Rest ao compreenderem e aplicarem os princípios e práticas fundamentais para automatizar testes em APIs Rest
+
+
+## Módulo 06 - Automação de Testes em Mobile
+### Objetivo disciplina: Esse módulo é para capacitar os alunos a se tornarem profissionais proficientes na automação de testes para aplicativos móveis. Ao longo da disciplina, os participantes serão expostos a uma abordagem abrangente e prática, desenvolvendo habilidades essenciais para enfrentar os desafios específicos relacionados ao teste de aplicações em dispositivos móveis.
+
+
+## Módulo 07 - Automação de Testes em Desktop
+### Objetivo disciplina: Essa disciplina é para capacitar os alunos a se tornarem profissionais proficientes na automação de testes desktop. Ao longo da disciplina, os participantes serão expostos a uma abordagem abrangente e prática, desenvolvendo habilidades essenciais para enfrentar os desafios específicos relacionados ao teste de aplicações desktop.
+
+
+## Módulo 08 - Automação de Testes de Performance
+### Objetivo disciplina: Essa disciplina é para capacitar os estudantes a planejar, desenvolver e executar testes automatizados que avaliem o desempenho de aplicações, utilizando ferramentas, métricas e estratégias avançadas para garantir a qualidade e eficiência em ambientes cliente-servidor, considerando padrões como a ISO-25010.
+
+
+## Módulo 09 - Integração Contínua e Testes Automatizados
+### Objetivo disciplina: Nessa disciplina é para capacitar os alunos a implementar e otimizar práticas de integração contínua e testes automatizados em desenvolvimento de software, abrangendo desde a introdução até a aplicação de boas práticas, configuração de pipelines, análise de resultados e distribuição.
+
+
+## Módulo 10 - Gestão de Testes Automatizados
+### Objetivo disciplina: Nessa disciplina é para capacitar os alunos a planejar, implementar e gerenciar eficientemente processos de automação de testes, integrando-os de forma estratégica ao ciclo de desenvolvimento de software, com foco na melhoria da qualidade, eficácia e eficiência dos testes.
+
+
+## Módulo 11 - Tópicos Especiais
+### Objetivo disciplina: Nessa disciplina é para desenvolver estudos específicos da área de automação de testes, relacionados ao escopo de pesquisa e de atuação acadêmica do(a) professor(a) ministrante.
