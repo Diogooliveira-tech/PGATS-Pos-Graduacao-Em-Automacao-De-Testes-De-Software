@@ -24,7 +24,7 @@ PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 6) - Sab das 13:00 as
 ## Módulo 03 - Programação para Automação de Testes
 ### Objetivo disciplina: Essa disciplina é para capacitar os alunos a compreender e aplicar conceitos fundamentais de programação, com foco específico no ambiente de automação de testes de software. Espera-se que os alunos adquiram conhecimentos sólidos sobre os princípios de programação, sintaxe e estruturas de dados em TypeScript, com uma compreensão clara de como esses elementos se relacionam com a automação de testes.
 
-PGATS-2024-01: Programação para Automação de Testes (Aula 1) - Sex das 19:00 às 22:00	
+PGATS-2024-01: Programação para Automação de Testes (Aula 1) - Sex das 19:00 às 22:00 ✅	
 PGATS-2024-01: Programação para Automação de Testes (Aula 2) - Sab das 09:00 as 12:00	
 PGATS-2024-01: Programação para Automação de Testes (Aula 3) - Sab das 13:00 as 18:00	
 PGATS-2024-01: Programação para Automação de Testes (Aula 4) - Sex das 19:00 às 22:00	
