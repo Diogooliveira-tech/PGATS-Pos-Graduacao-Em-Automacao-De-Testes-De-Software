@@ -26,14 +26,19 @@ PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 6) - Sab das 13:00 as
 
 PGATS-2024-01: Programação para Automação de Testes (Aula 1) - Sex das 19:00 às 22:00 ✅	
 PGATS-2024-01: Programação para Automação de Testes (Aula 2) - Sab das 09:00 as 12:00 ✅	
-PGATS-2024-01: Programação para Automação de Testes (Aula 3) - Sab das 13:00 as 18:00	
+PGATS-2024-01: Programação para Automação de Testes (Aula 3) - Sab das 13:00 as 18:00 	
 PGATS-2024-01: Programação para Automação de Testes (Aula 4) - Sex das 19:00 às 22:00	
 PGATS-2024-01: Programação para Automação de Testes (Aula 5) - Sab das 09:00 as 12:00	
 PGATS-2024-01: Programação para Automação de Testes (Aula 6) - Sab das 13:00 as 18:00
 
 
 ## Módulo 04 - Automação de Testes em Web 
-### Objetivo disciplina: Essa disciplina é para capacitar os alunos a compreenderem e aplicarem os conceitos fundamentais e avançados relacionados à automação de testes em aplicações web, fornecendo assim uma base sólida de conhecimentos teóricos e práticos para que os alunos possam desenvolver e implementar testes automatizados de alta qualidade, eficiência e confiabilidade em projetos web.
+### Objetivo disciplina: Esse módulo é para capacitar os alunos a se tornarem profissionais proficientes na automação de testes para aplicativos móveis. Ao longo da disciplina, os participantes serão expostos a uma abordagem abrangente e prática, desenvolvendo habilidades essenciais para enfrentar os desafios específicos relacionados ao teste de aplicações em dispositivos móveis.
+
+- Automação de Testes em Mobile (Aula 1) - Sex das 19:00 às 22:00
+- Automação de Testes em Mobile (Aula 2) - Sab das 09:00 as 12:00
+- Automação de Testes em Mobile (Aula 3) - Sab das 13:00 as 18:00
+
 
 
 ## Módulo 05 - Automação de Testes em API Rest
