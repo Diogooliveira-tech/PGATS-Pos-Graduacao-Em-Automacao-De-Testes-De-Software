@@ -1,4 +1,4 @@
-let nome = "Júlio"
+let nome = "Júlio" //Declarando e atrituindo valor a uma variavél
 nome = "Yubram"
 nome += " Guevara"
 console.log(nome)
@@ -116,4 +116,12 @@ Além desses tipos de dados básicos, JavaScript também tem dois tipos de dados
 Object: Usado para armazenar coleções de dados e mais complexo que os tipos primitivos. Isso inclui objetos literais, funções, arrays e outros objetos.
 
 Array: Uma estrutura de dados especializada para armazenar valores sequenciais.
+*/
+
+/*
+Vimos três erros
+
+1- Erro de referencia(ReferenceError) = ultilizando alguma coisa que não foi declarada;
+2- Erro de tipo(TypeError) = Você está tentando atribuir algo para um tipo de variavel que não pode ser atribuida;
+3- Erro de Syntax(SyntaxError) = Que fala o identificador 'idade' já foi declarado. "Identifier 'idade' has already bee declaread";
 */
