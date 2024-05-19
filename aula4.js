@@ -1,3 +1,5 @@
+
+//CONDICIONAIS
 const mensagem = mensagemMisteriosa();
 //condicionais
 if (mensagem == "Sucesso") {
