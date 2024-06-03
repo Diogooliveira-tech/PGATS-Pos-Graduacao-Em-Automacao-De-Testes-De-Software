@@ -27,9 +27,9 @@ PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 6) - Sab das 13:00 as
 PGATS-2024-01: Programação para Automação de Testes (Aula 1) - Sex das 19:00 às 22:00 ✅	
 PGATS-2024-01: Programação para Automação de Testes (Aula 2) - Sab das 09:00 as 12:00 ✅	
 PGATS-2024-01: Programação para Automação de Testes (Aula 3) - Sab das 13:00 as 18:00 ✅	
-PGATS-2024-01: Programação para Automação de Testes (Aula 4) - Sex das 19:00 às 22:00	
-PGATS-2024-01: Programação para Automação de Testes (Aula 5) - Sab das 09:00 as 12:00	
-PGATS-2024-01: Programação para Automação de Testes (Aula 6) - Sab das 13:00 as 18:00
+PGATS-2024-01: Programação para Automação de Testes (Aula 4) - Sex das 19:00 às 22:00 ❗
+PGATS-2024-01: Programação para Automação de Testes (Aula 5) - Sab das 09:00 as 12:00 ❗	
+PGATS-2024-01: Programação para Automação de Testes (Aula 6) - Sab das 13:00 as 18:00 ❗
 
 
 ## Módulo 04 - Automação de Testes em Web 
