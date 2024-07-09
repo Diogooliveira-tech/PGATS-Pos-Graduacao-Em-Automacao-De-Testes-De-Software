@@ -56,9 +56,9 @@ PGATS-2024-01: Automação de Testes em API Rest (Aula 6) - Sab das 13:00 as 18:
 ## Módulo 06 - Automação de Testes em Web
 ### Objetivo disciplina: Esse módulo é para capacitar os alunos a se tornarem profissionais proficientes na automação de testes para aplicativos móveis. Ao longo da disciplina, os participantes serão expostos a uma abordagem abrangente e prática, desenvolvendo habilidades essenciais para enfrentar os desafios específicos relacionados ao teste de aplicações em dispositivos móveis.
 
-PGATS-2024-01: Automação de Testes em Web (Aula 1) - Sex das 19:00 às 22:00
-PGATS-2024-01: Automação de Testes em Web (Aula 2) - Sab das 09:00 as 12:00
-PGATS-2024-01: Automação de Testes em Web (Aula 3) - Sab das 13:00 as 18:00
+PGATS-2024-01: Automação de Testes em Web (Aula 1) - Sex das 19:00 às 22:00 ✅
+PGATS-2024-01: Automação de Testes em Web (Aula 2) - Sab das 09:00 as 12:00 ✅
+PGATS-2024-01: Automação de Testes em Web (Aula 3) - Sab das 13:00 as 18:00 ✅
 PGATS-2024-01: Automação de Testes em Web (Aula 4) - Sex das 19:00 às 22:00
 PGATS-2024-01: Automação de Testes em Web (Aula 5) - Sab das 09:00 as 12:00
 PGATS-2024-01: Automação de Testes em Web (Aula 6) - Sab das 13:00 as 18:00
