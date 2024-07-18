@@ -48,7 +48,7 @@ PGATS-2024-01: Automação de Testes em Mobile (Aula 6) - Sab das 13:00 as 18:00
 PGATS-2024-01: Automação de Testes em API Rest (Aula 1) - Sex das 19:00 às 22:00 ✅
 PGATS-2024-01: Automação de Testes em API Rest (Aula 2) - Sab das 09:00 as 12:00 ✅
 PGATS-2024-01: Automação de Testes em API Rest (Aula 3) - Sab das 13:00 as 18:00 ✅
-PGATS-2024-01: Automação de Testes em API Rest (Aula 4) - Sex das 19:00 às 22:00 
+PGATS-2024-01: Automação de Testes em API Rest (Aula 4) - Sex das 19:00 às 22:00 ✅/❗
 PGATS-2024-01: Automação de Testes em API Rest (Aula 5) - Sab das 09:00 as 12:00 
 PGATS-2024-01: Automação de Testes em API Rest (Aula 6) - Sab das 13:00 as 18:00 
 
