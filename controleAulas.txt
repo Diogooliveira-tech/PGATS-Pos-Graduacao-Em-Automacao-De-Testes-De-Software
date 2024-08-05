@@ -1,3 +1,8 @@
+# Pós-graduação em Automação de Testes de Software | PGATS 
+## A Pós-graduação em Automação de Testes é um programa especializado EAD 100% on-line que 
+contém 11 disciplinas com foco na linguagem de programação Javascript trazendo aos alunos
+ a oportunidade de aprender as áreas de maior necessidade de mercado
+
 
 ## Módulo 01 - Fundamentos em Automação em Teste de Software
 ### Objetivo disciplina: Esta disciplina proporciona uma introdução abrangente e prática aos fundamentos da automação de testes de software, desenhada para profissionais e estudantes que desejam adquirir uma base sólida nesse campo dinâmico e crucial da engenharia de software.
@@ -8,6 +13,8 @@ PGATS-2024-01: Fundamentos em Automação se Testes (Aula 3) - Sab das 13:00 as 
 PGATS-2024-01: Fundamentos em Automação se Testes (Aula 4) - Sex das 19:00 às 22:00 ✅
 PGATS-2024-01: Fundamentos em Automação se Testes (Aula 5) - Sab das 09:00 as 12:00 ✅
 PGATS-2024-01: Fundamentos em Automação se Testes (Aula 6) - Sab das 13:00 as 18:00 ✅
+Trabalho de conclusão de disciplina - ✅
+Nota: 10
 
 
 ## Módulo 02 - Algorítimos e Lógica da Programação
@@ -15,10 +22,12 @@ PGATS-2024-01: Fundamentos em Automação se Testes (Aula 6) - Sab das 13:00 as 
 
 PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 1) - Sex das 19:00 às 22:00 ✅
 PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 2) - Sab das 09:00 as 12:00 ✅
-PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 3) - Sab das 13:00 as 18:00
-PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 4) - Sex das 19:00 às 22:00
-PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 5) - Sab das 09:00 as 12:00
-PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 6) - Sab das 13:00 as 18:00
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 3) - Sab das 13:00 as 18:00 ❗
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 4) - Sex das 19:00 às 22:00 ❗
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 5) - Sab das 09:00 as 12:00 ❗
+PGATS-2024-01: Algoritmos e Lógica da Programação (Aula 6) - Sab das 13:00 as 18:00 ❗
+Trabalho de conclusão de disciplina - ✅
+Nota: 7.30
 
 
 ## Módulo 03 - Programação para Automação de Testes
@@ -30,17 +39,22 @@ PGATS-2024-01: Programação para Automação de Testes (Aula 3) - Sab das 13:00
 PGATS-2024-01: Programação para Automação de Testes (Aula 4) - Sex das 19:00 às 22:00 ❗
 PGATS-2024-01: Programação para Automação de Testes (Aula 5) - Sab das 09:00 as 12:00 ❗	
 PGATS-2024-01: Programação para Automação de Testes (Aula 6) - Sab das 13:00 as 18:00 ❗
+Trabalho de conclusão de disciplina - ✅
+Nota: 10
 
 
 ## Módulo 04 - Automação de Testes Mobile 
 ### Objetivo disciplina: Esse módulo é para capacitar os alunos a se tornarem profissionais proficientes na automação de testes para aplicativos móveis. Ao longo da disciplina, os participantes serão expostos a uma abordagem abrangente e prática, desenvolvendo habilidades essenciais para enfrentar os desafios específicos relacionados ao teste de aplicações em dispositivos móveis.
 
-PGATS-2024-01: Automação de Testes em Mobile (Aula 1) - Sex das 19:00 às 22:00
-PGATS-2024-01: Automação de Testes em Mobile (Aula 2) - Sab das 09:00 as 12:00
-PGATS-2024-01: Automação de Testes em Mobile (Aula 3) - Sab das 13:00 as 18:00
-PGATS-2024-01: Automação de Testes em Mobile (Aula 4) - Sex das 19:00 às 22:00
-PGATS-2024-01: Automação de Testes em Mobile (Aula 5) - Sab das 09:00 as 12:00
-PGATS-2024-01: Automação de Testes em Mobile (Aula 6) - Sab das 13:00 as 18:00
+PGATS-2024-01: Automação de Testes em Mobile (Aula 1) - Sex das 19:00 às 22:00 ❗
+PGATS-2024-01: Automação de Testes em Mobile (Aula 2) - Sab das 09:00 as 12:00 ❗
+PGATS-2024-01: Automação de Testes em Mobile (Aula 3) - Sab das 13:00 as 18:00 ❗
+PGATS-2024-01: Automação de Testes em Mobile (Aula 4) - Sex das 19:00 às 22:00 ❗
+PGATS-2024-01: Automação de Testes em Mobile (Aula 5) - Sab das 09:00 as 12:00 ❗
+PGATS-2024-01: Automação de Testes em Mobile (Aula 6) - Sab das 13:00 as 18:00 ❗
+Trabalho de conclusão de disciplina - ✅
+Nota: 7.0
+
 
 ## Módulo 05 - Automação de Testes em API Rest
 ### Objetivo disciplina: Essa disciplina é para capacitar os alunos a se tornarem proficientes na automação de testes de APIs Rest ao compreenderem e aplicarem os princípios e práticas fundamentais para automatizar testes em APIs Rest
@@ -48,9 +62,11 @@ PGATS-2024-01: Automação de Testes em Mobile (Aula 6) - Sab das 13:00 as 18:00
 PGATS-2024-01: Automação de Testes em API Rest (Aula 1) - Sex das 19:00 às 22:00 ✅
 PGATS-2024-01: Automação de Testes em API Rest (Aula 2) - Sab das 09:00 as 12:00 ✅
 PGATS-2024-01: Automação de Testes em API Rest (Aula 3) - Sab das 13:00 as 18:00 ✅
-PGATS-2024-01: Automação de Testes em API Rest (Aula 4) - Sex das 19:00 às 22:00 
-PGATS-2024-01: Automação de Testes em API Rest (Aula 5) - Sab das 09:00 as 12:00 
-PGATS-2024-01: Automação de Testes em API Rest (Aula 6) - Sab das 13:00 as 18:00 
+PGATS-2024-01: Automação de Testes em API Rest (Aula 4) - Sex das 19:00 às 22:00 ✅
+PGATS-2024-01: Automação de Testes em API Rest (Aula 5) - Sab das 09:00 as 12:00 ✅
+PGATS-2024-01: Automação de Testes em API Rest (Aula 6) - Sab das 13:00 as 18:00 ✅
+Trabalho de conclusão de disciplina - ❗
+Nota: 0
 
 
 ## Módulo 06 - Automação de Testes em Web
@@ -62,22 +78,51 @@ PGATS-2024-01: Automação de Testes em Web (Aula 3) - Sab das 13:00 as 18:00 �
 PGATS-2024-01: Automação de Testes em Web (Aula 4) - Sex das 19:00 às 22:00 
 PGATS-2024-01: Automação de Testes em Web (Aula 5) - Sab das 09:00 as 12:00
 PGATS-2024-01: Automação de Testes em Web (Aula 6) - Sab das 13:00 as 18:00
+Trabalho de conclusão de disciplina - ❗
+Nota: 0
+
 
 ## Módulo 07 - Automação de Testes em Desktop
 ### Objetivo disciplina: Essa disciplina é para capacitar os alunos a se tornarem profissionais proficientes na automação de testes desktop. Ao longo da disciplina, os participantes serão expostos a uma abordagem abrangente e prática, desenvolvendo habilidades essenciais para enfrentar os desafios específicos relacionados ao teste de aplicações desktop.
+
+PGATS-2024-01: Automação de Testes em Desktop (Aula 1) - Sex das 19:00 às 22:00 - (02/08/2024) ✅
+PGATS-2024-01: Automação de Testes em Desktop (Aula 2) - Sab das 09:00 as 12:00 - (03/08/2024) 
+PGATS-2024-01: Automação de Testes em Desktop (Aula 3) - Sab das 13:00 as 18:00 - (03/08/2024) 
+PGATS-2024-01: Automação de Testes em Desktop (Aula 5) - Sex das 19:00 às 22:00 - (16/08/2024) 
+PGATS-2024-01: Automação de Testes em Desktop (Aula 5) - Sab das 09:00 as 12:00 - (17/08/2024) 
+PGATS-2024-01: Automação de Testes em Desktop (Aula 6) - Sab das 13:00 as 18:00 - (17/08/2024) 
+Trabalho de conclusão de disciplina - ❗
+Nota: 0
 
 
 ## Módulo 08 - Automação de Testes de Performance
 ### Objetivo disciplina: Essa disciplina é para capacitar os estudantes a planejar, desenvolver e executar testes automatizados que avaliem o desempenho de aplicações, utilizando ferramentas, métricas e estratégias avançadas para garantir a qualidade e eficiência em ambientes cliente-servidor, considerando padrões como a ISO-25010.
 
 
+Trabalho de conclusão de disciplina - ❗
+Nota: 0
+
+
 ## Módulo 09 - Integração Contínua e Testes Automatizados
 ### Objetivo disciplina: Nessa disciplina é para capacitar os alunos a implementar e otimizar práticas de integração contínua e testes automatizados em desenvolvimento de software, abrangendo desde a introdução até a aplicação de boas práticas, configuração de pipelines, análise de resultados e distribuição.
+
+
+Trabalho de conclusão de disciplina - ❗
+Nota: 0
 
 
 ## Módulo 10 - Gestão de Testes Automatizados
 ### Objetivo disciplina: Nessa disciplina é para capacitar os alunos a planejar, implementar e gerenciar eficientemente processos de automação de testes, integrando-os de forma estratégica ao ciclo de desenvolvimento de software, com foco na melhoria da qualidade, eficácia e eficiência dos testes.
 
 
+Trabalho de conclusão de disciplina - ❗
+Nota: 0
+
+
 ## Módulo 11 - Tópicos Especiais
 ### Objetivo disciplina: Nessa disciplina é para desenvolver estudos específicos da área de automação de testes, relacionados ao escopo de pesquisa e de atuação acadêmica do(a) professor(a) ministrante.
+
+# Terças de Programação
+
+
+# Palestras e Workshops
